@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description:  <img src='https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/poc_cosmess.png' onclick='alert(1)'> <a href='https://evil.com' onerror='alert(1)'>> CLICK HERE</a >
+  description:  <img src='https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/poc_cosmess.png' onclick='alert(1)'> <a href='https://evil.com' onclick='alert(1)'>> CLICK HERE</a >
   version: production
 basePath: /JSSResource/
 produces:
