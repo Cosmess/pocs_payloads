@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description:  '"--!><img src=x onerror=alert("OPENBUGBOUNTY")>  <a href='https://evil.com' onclick='alert(1)'>> CLICK HERE</a >
+  description: <img src=x onerror=alert("OPENBUGBOUNTY")>  <a href='https://evil.com' onclick='alert(1)'>> CLICK HERE</a >
   version: production
 basePath: /JSSResource/
 produces:
