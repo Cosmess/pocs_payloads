@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <marquee> COSMESS- POC HTML INJECTION MARQUEE <br></marquee>
+  description: <a href="https://evil.com"><marquee> COSMESS- POC HTML INJECTION MARQUEE <br></marquee></a>
   version: production
 basePath: /JSSResource/
 produces:
