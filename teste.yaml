@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <iframe src="https://www.evil.com"></iframe>
+  description: <iframe src="https://www.evil.com">teste</iframe>
   version: production
 basePath: /JSSResource/
 produces:
