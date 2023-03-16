@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <a href="https://evil.com"><marquee> COSMESS- POC HTML INJECTION MARQUEE</marquee></a>
+  description: <iframe src="https://www.evil.com"></iframe>
   version: production
 basePath: /JSSResource/
 produces:
